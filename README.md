@@ -21,7 +21,7 @@ Example: lazymux.conf
 
 
 ## Screenshot
-<img src="core/lazymux_4.png">
+TBA
 
 ### Requirements
 • Python 3.x
