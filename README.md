@@ -12,8 +12,8 @@
 
 [![BlackHole Security](core/gitbhs.svg)](https://github.com/BlackHoleSecurity)
 
-# Lazymux
-Lazymux is a tool that helps you to install and use multiple penetration testing and hacking tools on Android system with ease. It allows users to easily install and use a variety of popular tools such as Nmap, SQLMap, and Metasploit. The tool is simple to use, as you only need to type a command to install and use any of the tools. Lazymux is an open-source project and can be a very helpful tool for penetration testing and ethical hacking tasks.
+# b9pentmux108 (under construction)
+`b9pentmux` is a tool that helps you install and use multiple penetration testing and hacking tools on Android systems with ease. It allows users to easily install and use a variety of popular tools such as Nmap, SQLMap, and Metasploit, for example. The tool is simple to use, as you only need to type a command to install and use any of the tools. `b9pentmux` is an open-source project and may be a very helpful tool for penetration testing and ethical hacking tasks.
 
 Made with ❤️
 
