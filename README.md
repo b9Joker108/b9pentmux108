@@ -6,6 +6,28 @@
 
 Made with ❤️
 
+## Database
+Since forking this repository, I have been actively acquiring Python to realise a knowledge graph for 
+another project. Thatbhas been progressing, but is a mighty task with many moving parts, and individual 
+learning learning requirements. Upon first forking this repository, and git cloning it locally, I have
+been actively interrogating the codebase and reverse-engineering its workings, to understand how it
+effectively works together. Further to this, the first real initiative was to excavate the .db file, 
+and determine how best to work with it. I learnt that the .db file was actually interrogable in Termux
+with the commandline tool `sqlite3`, the package of which is in the official Termux repository. I then
+came to appreciate, that SQLite is very popular in coding globally. I found using `sqlite3` to 
+interrogate and query the database, clunky and not really suitable for my purposes. I really wanted to 
+visualise the database and its elements, and I couldn't find a way to do that in the .db format in 
+Termux, or through an Android app. I learnt that visualising and editing a .db file within Termux on
+an unrooted device is not feasible. Since then, I have written Python scripts to convert the .db to 
+.xml, .json and .csv. All these data formats, namely: XML, JSON and CSV, I had become aware of, in 
+researching my other Python project, to realise a knowledge graph. I have since determined, that for 
+this project, the most appropriate data structure instead of .db, would actually be a Python module,
+of nested dictionaries,which I am yet to produce. From there, the logic of the codebase needsmust be
+refactored to reflect this design choice. That is yet to be done. My Python skills are not yet 
+foundational enough, to reactor this codebase, in light of this transition from .db to a module of
+Python nested dictionaries. But, I will keep at it.
+
+
 ## Feature
 - **Tool Installation**  
 Install Single Tool  
