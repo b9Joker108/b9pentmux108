@@ -26,11 +26,11 @@ of nested dictionaries, which I am yet to produce. Like I wrote individual Pytho
 convert the .db from that format to: .xml, .json and .csv, I will also write a Python module, to
 convert the .db to a Python module of Python nested dictionaries. From there, the logic of the 
 codebase needsmust be refactored to reflect this new design choice. That is yet to be done. My 
-Python skills are not yet foundational enough, to reactor this codebase, in light of this 
+Python skills are not yet foundational enough, to refactor this codebase, in light of this 
 transition from .db to a module of Python nested dictionaries. But, I will keep at it. I must say, 
 that though I have come to appreciate that .db SQLite files are very popular in coding, I prefer CSV,
 JSON, XML and Python nested dictionaries instead, as they are more easily readable and viewable in
-Termux, 
+Termux, This has been a steep learning curve.
 
 
 ## Feature
