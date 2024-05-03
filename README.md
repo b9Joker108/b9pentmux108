@@ -8,8 +8,8 @@ Made with ❤️
 
 ## Database
 Since forking this repository, I have been actively acquiring Python to realise a knowledge graph for 
-another project. Thatbhas been progressing, but is a mighty task with many moving parts, and individual 
-learning learning requirements. Upon first forking this repository, and git cloning it locally, I have
+another project. That has been progressing, but it is a mighty task with many moving parts and individual 
+learning requirements. Upon first forking this repository, and git cloning it locally, I have
 been actively interrogating the codebase and reverse-engineering its workings, to understand how it
 effectively works together. Further to this, the first real initiative was to excavate the .db file, 
 and determine how best to work with it. I learnt that the .db file was actually interrogable in Termux
@@ -22,10 +22,12 @@ an unrooted device is not feasible. Since then, I have written Python scripts to
 .xml, .json and .csv. All these data formats, namely: XML, JSON and CSV, I had become aware of, in 
 researching my other Python project, to realise a knowledge graph. I have since determined, that for 
 this project, the most appropriate data structure instead of .db, would actually be a Python module,
-of nested dictionaries,which I am yet to produce. From there, the logic of the codebase needsmust be
-refactored to reflect this design choice. That is yet to be done. My Python skills are not yet 
-foundational enough, to reactor this codebase, in light of this transition from .db to a module of
-Python nested dictionaries. But, I will keep at it.
+of nested dictionaries, which I am yet to produce. Like I wrote individual Python modules to 
+convert the .db from that format to: .xml, .json and .csv, I will also write a Python module, to
+convert the .db to a Python module of Python nested dictionaries. From there, the logic of the 
+codebase needsmust be refactored to reflect this new design choice. That is yet to be done. My 
+Python skills are not yet foundational enough, to reactor this codebase, in light of this 
+transition from .db to a module of Python nested dictionaries. But, I will keep at it.
 
 
 ## Feature
